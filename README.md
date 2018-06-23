@@ -1,7 +1,7 @@
 # Counting Inversions
 
-Given :- An array A containing numbers from 1,2,3,....,n in some arbitrary order
-Find :- The number of inversions i.e. number of pairs of (i,j) indices with i < j & A[i] > A[j]
+Given :- An array A containing numbers from 1,2,3,....,n in some arbitrary order.
+Find :- The number of inversions i.e. number of pairs of (i,j) indices with i < j & A[i] > A[j].
 
 eg. For A = {1,3,5,2,4,6} the inversions are (3,2); (5,2); (5,4)
 
